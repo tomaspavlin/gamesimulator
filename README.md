@@ -5,9 +5,9 @@ Program for finding winning strategy in games for two players. You can easily im
 - In *main.py* import game you want to play.
 - In *main.py* set conf variable. It is configuration of the game you want to eval winning strategy for.
 - Then just run *main.py*
-	```
-	./main.py
-	```
+```
+./main.py
+```
 
 ## Examples
 
